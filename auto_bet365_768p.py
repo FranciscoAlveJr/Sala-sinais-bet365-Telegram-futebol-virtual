@@ -132,7 +132,7 @@ if __name__=='__main__':
     # bet.posicao_mouse()
     # bet.abrir_browser()
     # sleep(10)
-    # bet.login('patriciasv0901', 'patricia@0659123')
+    # bet.login('', '')
     # sleep(5)
     # bet.campeonatos('PREMIER')
     # a = 1
