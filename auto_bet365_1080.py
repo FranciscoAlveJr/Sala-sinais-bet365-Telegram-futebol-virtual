@@ -127,34 +127,3 @@ if __name__=='__main__':
     bet.delay(1.5)
     sleep(2)
     bet.resolucao()
-    # bet.posicao_mouse()
-    # bet.abrir_browser()
-    # sleep(10)
-    # bet.login('patriciasv0901', 'patricia@0659123')
-    # sleep(5)
-    # bet.campeonatos('COPA')
-    # a = 1
-    # for i in range(4):
-    #     bet.fazer_aposta(str(a))
-        
-    #     result = bet.rec_img()
-    #     while result == None:
-    #         result = bet.rec_img()
-    #         print(result)
-    #         sleep(1)
-    #         continue
-
-    #     if result == 'Ganho':
-    #         print('Deu ganho!')
-    #         break
-    #     elif result == 'Perda':
-    #         if i == 3:
-    #             print('Deu perda.')
-    #         else:
-    #             print('Deu perda. Dobrando aposta.')
-    #             a *= 2
-    #             sleep(1)
-    #         pyautogui.hotkey('alt', 'left')
-    #         sleep(1)
-    #         continue
-    
